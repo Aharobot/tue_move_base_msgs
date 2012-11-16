@@ -1,0 +1,17 @@
+<package>
+  <description brief="tue_move_base_msgs">
+
+     tue_move_base_msgs
+
+  </description>
+  <author>sdries</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/tue_move_base_msgs</url>
+  <depend package="actionlib"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+

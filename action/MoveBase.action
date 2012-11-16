@@ -1,0 +1,10 @@
+# define the goal
+geometry_msgs/PoseStamped[] path
+---
+# define the result
+geometry_msgs/PoseStamped base_position
+---
+# define a feedback message
+geometry_msgs/PoseStamped base_position
+float32 percent_complete
+
