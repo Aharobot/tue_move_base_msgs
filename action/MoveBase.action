@@ -6,5 +6,6 @@ geometry_msgs/PoseStamped base_position
 ---
 # define a feedback message
 geometry_msgs/PoseStamped base_position
-float32 percent_complete
+geometry_msgs/PointStamped obstacle_position
+int32 nr_poses_to_goal
 
