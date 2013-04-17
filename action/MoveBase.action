@@ -8,4 +8,5 @@ geometry_msgs/PoseStamped base_position
 geometry_msgs/PoseStamped base_position
 geometry_msgs/PointStamped obstacle_position
 int32 nr_poses_to_goal
-
+geometry_msgs/PoseStamped[] path
+float64 nr_sec_till_replan_execution
